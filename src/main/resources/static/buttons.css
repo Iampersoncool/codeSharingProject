@@ -1,0 +1,18 @@
+.btn-top-right {
+  opacity: 0.4;
+  transition: opacity 130ms ease-in-out;
+  cursor: pointer;
+  background-color: lightskyblue;
+  margin-top: 1rem;
+  margin-right: 2rem;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.btn-top-right:hover {
+  opacity: 1;
+}
